@@ -1,0 +1,15 @@
+{
+  "name": "bdu-tuyen-sinh",
+  "version": "1.0.0",
+  "description": "Hệ thống tuyển sinh BDU",
+  "main": "index.js",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": ["tuyen-sinh", "bdu"],
+  "author": "",
+  "license": "ISC"
+}
+
